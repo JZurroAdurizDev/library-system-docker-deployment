@@ -1,0 +1,6 @@
+.env
+*.crt
+*.key
+java_api/jar
+java_microservice/jar
+docker-compose.override.yml
