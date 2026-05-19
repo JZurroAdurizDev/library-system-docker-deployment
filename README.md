@@ -83,7 +83,7 @@ Repository:
 ## Repository structure
 
 ```text
-deploy/
+library-system-docker-deployment/
 ├── docker-compose.yml
 ├── .env.example
 ├── java_api/
